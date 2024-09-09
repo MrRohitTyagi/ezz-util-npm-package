@@ -1,0 +1,1 @@
+This is private package consist of some handy util functions that i use in my projects

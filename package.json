@@ -1,0 +1,11 @@
+{
+  "name": "ezz-utils",
+  "version": "1.0.3",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "rohit-tyagi",
+  "license": "ISC",
+  "description": "This is private package consist of some handy util functions that i use in my projects",
+  "dependencies": {}
+}
